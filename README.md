@@ -5,7 +5,7 @@ This a simple console based application made in c++
 
 There are two file 
 1. contact manager (it is a .bat file )
-2. contacts
+2. contacts (it a .exe file compiled by c++ code)
 
 Paste these two files in a folder you want 
 
